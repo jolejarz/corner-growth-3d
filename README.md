@@ -4,4 +4,4 @@ This is an interactive animation of a crystal growing inside a three-dimensional
 
 # License and Copyright
 
-All files in this repository are released under the [2-Clause BSD License](https://opensource.org/license/bsd-2-clause) as per the included [license](https://github.com/jolejarz/corner-growth-3d/LICENSE.txt) file.
+All files in this repository are released under the [2-Clause BSD License](https://opensource.org/license/bsd-2-clause) as per the included [license](https://github.com/jolejarz/corner-growth-3d/blob/main/LICENSE.txt) file.
